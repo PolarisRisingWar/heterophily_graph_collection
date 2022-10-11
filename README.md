@@ -34,7 +34,7 @@
 28. Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily
 
 **2021年**
-1. (AAAI) Graph Neural Networks with Heterophily
+1. (AAAI) Graph Neural Networks with Heterophily：提出CPGNN模型
 2. (ICLR) Adaptive Universal Generalized PageRank Graph Neural Network：提出GPR-GNN模型，异配图是考虑的情况之一
 3. (KDD) Learning How to Propagate Messages in Graph Neural Networks：异配图是考虑的情况之一
 4. (NeurIPS) Universal Graph Convolutional Networks：提出U-GCN模型，异配图是考虑的情况之一
