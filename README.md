@@ -18,6 +18,7 @@
 12. (CVPR) HL-Net: Heterophily Learning Network for Scene Graph Generation
 13. (ICML) Finding Global Homophily in Graph Neural Networks When Meeting Heterophily
 14. (IJCAI) RAW-GNN: RAndom Walk Aggregation based Graph Neural Network：异配性是论文考虑的点之一
+15. (NeurIPS) [Revisiting Heterophily For Graph Neural Networks](https://cz5waila03cyo0tux1owpyofgoryroob.oss-cn-beijing.aliyuncs.com/21/30/C6/2130C6EA61FFFA48E5C2233600691789.pdf)
 15. (ICDM) Two Sides of the Same Coin: Heterophily and Oversmoothing in Graph Convolutional Neural Networks
 16. (PMLR) G2CN: Graph Gaussian Convolution Networks with Concentrated Graph Filters：异配图是考虑的情况之一
 17. (Journal of Computational Science) Simplifying approach to node classification in Graph Neural Networks：提出FSGNN模型，异配图是考虑的情况之一
@@ -32,6 +33,7 @@
 26. Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation
 27. What Do Graph Convolutional Neural Networks Learn?：异配性是论文考虑的点之一
 28. Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily
+19. [Revisiting the role of heterophily in graph representation learning: An edge classification perspective](https://arxiv.org/abs/2205.11322)
 
 **2021年**
 1. (AAAI) Graph Neural Networks with Heterophily：提出CPGNN模型
