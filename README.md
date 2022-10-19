@@ -34,6 +34,7 @@
 27. What Do Graph Convolutional Neural Networks Learn?：异配性是论文考虑的点之一
 28. Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily
 19. [Revisiting the role of heterophily in graph representation learning: An edge classification perspective](https://arxiv.org/abs/2205.11322)
+20. [Test-Time Training for Graph Neural Networks](https://arxiv.org/abs/2210.08251)
 
 **2021年**
 1. (AAAI) Graph Neural Networks with Heterophily：提出CPGNN模型
