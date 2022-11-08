@@ -24,7 +24,7 @@
 17. (Journal of Computational Science) Simplifying approach to node classification in Graph Neural Networks：提出FSGNN模型，异配图是考虑的情况之一
 18. Graph neural networks for graphs with heterophily: A survey
 19. Simplified Graph Convolution with Heterophily
-20. Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach
+20. [Make Heterophily Graphs Better Fit GNN: A Graph Rewiring Approach](https://arxiv.org/abs/2209.08264)
 21. Incorporating Heterophily into Graph Neural Networks for Graph Classification
 22. GCN-SL: Graph Convolutional Networks with Structure Learning for Graphs under Heterophily
 23. Characterizing Graph Datasets for Node Classification: Beyond Homophily-Heterophily Dichotomy
@@ -34,7 +34,7 @@
 27. What Do Graph Convolutional Neural Networks Learn?：异配性是论文考虑的点之一
 28. Exploiting Neighbor Effect: Conv-Agnostic GNNs Framework for Graphs with Heterophily
 19. [Revisiting the role of heterophily in graph representation learning: An edge classification perspective](https://arxiv.org/abs/2205.11322)
-20. [Test-Time Training for Graph Neural Networks](https://arxiv.org/abs/2210.08251)
+20. [Test-Time Training for Graph Neural Networks](https://arxiv.org/abs/2210.08251)：异配性是论文考虑的点之一
 
 **2021年**
 1. (AAAI) Graph Neural Networks with Heterophily：提出CPGNN模型
