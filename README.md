@@ -3,6 +3,10 @@
 * [1. 论文](#论文)
 
 # 论文
+**2023年**  
+graph rewiring:
+1. (WWW) [Homophily-oriented Heterogeneous Graph Rewiring](https://arxiv.org/abs/2302.06299)
+
 **2022年**
 1. (AAAI) Powerful Graph Convolutioal Networks with Adaptive Propagation Mechanism for Homophily and Heterophily
 2. (AAAI) Deformable Graph Convolutional Networks：异配图是考虑的情况之一
